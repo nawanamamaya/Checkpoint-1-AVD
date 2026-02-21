@@ -1,4 +1,4 @@
-# Checkpoint-1-AVD
+# Checkpoint-AVD
 Nama: Rija Aulia Mayatri	
 
 NIM: 2509116011
